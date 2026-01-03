@@ -199,10 +199,10 @@ combos:
 - p: [32, 33]
   k: $$mdi:keyboard-esc$$
 - p: [27, 28]
-  k: '&de_ae'
+  k: AltGr+Q
 - p: [22, 23]
-  k: '&de_oe'
+  k: AltGr+P
 - p: [20, 21]
-  k: '&de_ue'
+  k: AltGr+Y
 - p: [28, 29]
-  k: '&de_eszett'
+  k: AltGr+S
